@@ -2,7 +2,7 @@
 //感谢各位隐姓埋名的大佬分享~
 //Q群：493192284（如果老哥们有分享精神，欢迎进群，那个，多嘴一句，群里都是小白，这个配置本质是给纯小白用的，仅限于能正常使用，更新维护都不及时，请见谅，没有分享精神的大哥就不要加群了，别进去秀了自己的好东西，又不愿意分享，让我们眼巴巴的看着，怪可怜人的。。。）
 {
-	"spider": "http://刚刚.live/jar2/0906.jar", 
+	"spider": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/jar/gg0906.jar", 
 	//jar包嫖自TG群baitianwu大佬精细缝合
 	"wallpaper": "http://刚刚.live/图",
 	//直播没时间维护，白嫖云星日记
@@ -15,7 +15,7 @@
 	}],
 	"sites": [
 	    //b站筛选嫖自Q群管理ZJ
-	    {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/bili.json"},
+	    {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/bili.json"},
 	    {
 			"key": "360_spider",
 			"name": "通道-1（SP官解）",
@@ -125,7 +125,7 @@
 			"filterable": 1,
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		}, 
-		{"key":"csp_Alist","name":"Alist（网盘不支持搜索）","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
+		{"key":"csp_Alist","name":"Alist（网盘不支持搜索）","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/alist.json"},
 		{
 			"key": "Yiso",
 			"name": "易搜（云盘仅搜索）",
@@ -285,7 +285,7 @@
 		{"key":"KanSJ_spider","name":"通道-30（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 		{"key":"293视频","name":"通道-31（SP）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_AppYsV2","name":"通道-32（V2）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
-		{"key":"csp_xpath_6d","name":"通道-33（XP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/6d.json"},
+		{"key":"csp_xpath_6d","name":"通道-33（XP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/6d.json"},
 			
 		
 		{
@@ -296,10 +296,10 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/shdy.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/shdy.json"
 		},
-		{"key":"csp_xbb_ftHD","name":"通道-35（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/fthd.json"},
-//		{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/czzy2.json"}, 
+		{"key":"csp_xbb_ftHD","name":"通道-35（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/fthd.json"},
+//		{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/czzy2.json"}, 
 		{
 			"key": "csp_biubiu_影视工厂",
 			"name": "通道-36（XB）",
@@ -308,9 +308,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/ysgc2.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/ysgc2.json"
 		},
-		{"key":"csp_biubiu_555电影","name":"通道-37（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/555.json"},
+		{"key":"csp_biubiu_555电影","name":"通道-37（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/555.json"},
 		{
 			"key": "诺讯资源",
 			"name": "通道-38（T1官采）",
@@ -326,7 +326,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-//		{"key":"csp_xpath_网络搜集库88","name":"球迷专场一","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/88kanqiu.json"},
+//		{"key":"csp_xpath_网络搜集库88","name":"球迷专场一","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/88kanqiu.json"},
 
 		{
 			"key": "csp_xpath_网络搜集库qiumi",
@@ -336,7 +336,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://刚刚.live/jar2/tvjs/qiumi.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/qiumi.json"
 		}, {
 			"key": "csp_biubiu_斗鱼",
 			"name": "斗鱼直播（XB）",
@@ -345,7 +345,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/douyu.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/douyu.json"
 		}, {
 			"key": "csp_xpath_huya",
 			"name": "虎牙直播(XP)",
@@ -354,7 +354,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://刚刚.live/jar2/tvjs/huya2.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/huya2.json"
 		}, {
 			"key": "csp_xpath_kuqimv",
 			"name": "经典MV（XP）",
@@ -363,7 +363,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/kuqimv.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/kuqimv.json"
 		},
 		{
 			"key": "csp_xpath_jbb",
@@ -373,12 +373,12 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://刚刚.live/jar2/tvjs/jubaibai.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/jubaibai.json"
 		},
-		{"key":"mtv_xp_789ba","name":"通道-41（XP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/789yb.json"},
-//		{"key":"csp_xpath_naifeiorg","name":"奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/naifeiorg.json"},
-//		{"key":"csp_xpath_yanetflix","name":"奈非鸭","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/yanaifei.json"},
-{"key":"csp_xpath_007","name":"玲玲七（有广告）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/007.json"},
+		{"key":"mtv_xp_789ba","name":"通道-41（XP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/789yb.json"},
+//		{"key":"csp_xpath_naifeiorg","name":"奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/naifeiorg.json"},
+//		{"key":"csp_xpath_yanetflix","name":"奈非鸭","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/yanaifei.json"},
+{"key":"csp_xpath_007","name":"玲玲七（有广告）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/007.json"},
 		{
 			"key": "csp_biubiu_真不卡cerrd",
 			"name": "通道-42（XB）",
@@ -387,7 +387,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/zhenbuka.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/zhenbuka.json"
 		}, {
 			"key": "csp_biubiu_特狗影视",
 			"name": "特狗影视",
@@ -396,7 +396,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/tgys.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/tgys.json"
 		}, {
 			"key": "csp_biubiu_蓝莓影视",
 			"name": "通道-44（XB）",
@@ -405,7 +405,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/lanmei.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/lanmei.json"
 		},
 		{
 			"key": "考拉直链",
@@ -433,7 +433,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://刚刚.live/jar2/tvjs/meiju562.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/meiju562.json"
 		},
 		
 		{
@@ -444,7 +444,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/bidiys2.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/bidiys2.json"
 		},
 		{
 			"key": "小熊",
@@ -455,11 +455,11 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, 
-		{"key": "csp_XYQBiu_lingyun","name": "通道-50（XYQ）","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/lingyun.json"},
-		{"key": "csp_XYQBiu_23yy","name": "通道-51（XYQ）","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/23ys.json"},
-{"key": "csp_XYQBiu_wanneng","name": "通道-52（XYQ）","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/wanneng.json"},
-		{"key":"csp_xpath_qiyou","name":"通道-53（XP）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/qiyouxp.json"},
-//  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/qiyou.json"},
+		{"key": "csp_XYQBiu_lingyun","name": "通道-50（XYQ）","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/lingyun.json"},
+		{"key": "csp_XYQBiu_23yy","name": "通道-51（XYQ）","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/23ys.json"},
+{"key": "csp_XYQBiu_wanneng","name": "通道-52（XYQ）","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/wanneng.json"},
+		{"key":"csp_xpath_qiyou","name":"通道-53（XP）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/qiyouxp.json"},
+//  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/qiyou.json"},
 		{
 			"key": "csp_biubiu_voflix",
 			"name": "通道-54（XB）",
@@ -468,7 +468,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/voflix.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/voflix.json"
 		},
 		{
 			"key": "csp_biubiu_cupfox",
@@ -478,7 +478,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/cupfox.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/cupfox.json"
 		},
 		{
 			"key": "csp_biubiu_yekong",
@@ -488,7 +488,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/yekong.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/yekong.json"
 		},
 		{
 			"key": "csp_appysv2_M2_暖光影视",
@@ -500,7 +500,7 @@
 			"filterable": 1,
 			"ext": "https://app.bl210.com/api.php/v1.vod"
 		},
-		{"key":"mtv_xp_jipinys","name":"通道-57（XP）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/jipin.json"},
+		{"key":"mtv_xp_jipinys","name":"通道-57（XP）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/jipin.json"},
 		
 		{"key":"多多","name":"通道-58（T1有广告）","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
 		 {
@@ -519,7 +519,7 @@
 			"searchable": 1,
 			"quickSearch": 0
 		},
-		{"key":"csp_xpath_xqmi","name":"通道-61（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/xqm.json"},
+		{"key":"csp_xpath_xqmi","name":"通道-61（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/xqm.json"},
 		{
 			"key": "csp_xpath_pianku",
 			"name": "通道-62（XP）",
@@ -528,7 +528,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/pianku.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/pianku.json"
 		},
 		{
 			"key": "影图",
@@ -550,8 +550,8 @@
 			"filterable": 1,
 			"ext": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"
 		},
-		{"key":"mtv_xp_AGE","name":"动漫通道-67（XP有广告）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/AGE.json"},
-		{"key":"mtv_xp_动漫岛源","name":"动漫通道-68（XP有广告）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/dongmandao.json"},
+		{"key":"mtv_xp_AGE","name":"动漫通道-67（XP有广告）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/AGE.json"},
+		{"key":"mtv_xp_动漫岛源","name":"动漫通道-68（XP有广告）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/dongmandao.json"},
 		{
 			"key": "csp_biubiu_风车动漫",
 			"name": "动漫通道-69（XB有广告）",
@@ -560,7 +560,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/fengchedm.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/fengchedm.json"
 		}, {
 			"key": "csp_biubiu_OmoFun动漫",
 			"name": "动漫通道-70（XB有广告）",
@@ -569,7 +569,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/0mofun.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/0mofun.json"
 		}, {
 			"key": "csp_biubiu_森屋新番",
 			"name": "动漫通道-71（XB有广告）",
@@ -578,7 +578,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/senwu.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/senwu.json"
 		},
 		{
 			"key": "csp_xpath___动漫巴士",
@@ -588,12 +588,12 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/dm84.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/dm84.json"
 		},
 		
-//		{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},
-//		{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"},
-		{"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/xue.php"},
+//		{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/演唱会.php"},
+//		{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/戏曲.php"},
+		{"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/xue.php"},
 		{
 			"key": "csp_biubiu_ting",
 			"name": "听书（无画面）",
@@ -602,12 +602,12 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/tingbook.json"
+			"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/tingbook.json"
 		},
 		
-		{"key": "csp_XYQBiu_dsp","name": "短视频通道（XYQ）","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/duanshipin.json"},
-		{"key":"mtv_pc_yinfans","name":"磁力通道-1（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
-		{"key":"bdys","name":"磁力通道-2（XP）","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://刚刚.live/jar2/tvjs/bdyscl.json"},
+		{"key": "csp_XYQBiu_dsp","name": "短视频通道（XYQ）","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/duanshipin.json"},
+		{"key":"mtv_pc_yinfans","name":"磁力通道-1（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/yinfans.json"},
+		{"key":"bdys","name":"磁力通道-2（XP）","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontent.com/xiaogangzong/XG/main/ganggang/site/bdyscl.json"},
 		
 		 //以下T4白嫖唐长老TG，见谅~
    {"key":"VIP2","name":"通道-12（唐长老T4）","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
